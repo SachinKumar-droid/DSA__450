@@ -3,5 +3,5 @@ here , I am going to solve 450 DSA questions from a mobile application lets begi
 hey you can also practice from here because I developed it for you you get it.
 
 
-hi there my name is sachin kumar curruntly persuing BCA degree
+
 
